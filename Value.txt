@@ -1,0 +1,10 @@
+Value : 41	For Subscript : D1 : 0	D2 : 0	D3 : 0	D4 : 0	D5 : 0	
+Value : 67	For Subscript : D1 : 1	D2 : 0	D3 : 0	D4 : 0	D5 : 0	
+Value : 34	For Subscript : D1 : 0	D2 : 1	D3 : 0	D4 : 0	D5 : 0	
+Value : 0	For Subscript : D1 : 0	D2 : 0	D3 : 1	D4 : 0	D5 : 0	
+Value : 69	For Subscript : D1 : 0	D2 : 0	D3 : 0	D4 : 1	D5 : 0	
+Value : 24	For Subscript : D1 : 1	D2 : 0	D3 : 1	D4 : 1	D5 : 0	
+Value : 78	For Subscript : D1 : 0	D2 : 0	D3 : 0	D4 : 0	D5 : 1	
+Value : 58	For Subscript : D1 : 1	D2 : 0	D3 : 1	D4 : 0	D5 : 1	
+Value : 62	For Subscript : D1 : 0	D2 : 1	D3 : 0	D4 : 1	D5 : 1	
+Value : 64	For Subscript : D1 : 1	D2 : 1	D3 : 1	D4 : 1	D5 : 1	

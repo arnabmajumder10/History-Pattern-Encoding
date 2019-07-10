@@ -1,0 +1,288 @@
+# depslib dependency file v1.0
+1548719371 source:g:\thesis\history pattern encoding\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<utility>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+
+1548719220 g:\thesis\history pattern encoding\hpe\ea_var.h
+
+1548643488 g:\thesis\history pattern encoding\hpe\ea_struct.h
+
+1548716471 g:\thesis\history pattern encoding\hpe\ea_class.h
+
+1548717318 g:\thesis\history pattern encoding\hpe\ea_initialize.h
+
+1548717303 g:\thesis\history pattern encoding\hpe\ea_extension.h
+
+1548716459 g:\thesis\history pattern encoding\hpe\ea_menu.h
+
+1548630716 g:\thesis\history pattern encoding\hpe\ea_access.h
+
+1548718973 g:\thesis\history pattern encoding\hpe\ea_encoding.h
+
+1548697109 g:\thesis\history pattern encoding\hpe\ea_coef.h
+
+1544453878 source:g:\thesis\history pattern encoding copy\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+
+1544453850 g:\thesis\history pattern encoding copy\hpe\ea_var.h
+
+1544453840 g:\thesis\history pattern encoding copy\hpe\ea_struct.h
+
+1544453752 g:\thesis\history pattern encoding copy\hpe\ea_class.h
+
+1544453989 g:\thesis\history pattern encoding copy\hpe\ea_initialize.h
+
+1544453998 g:\thesis\history pattern encoding copy\hpe\ea_extension.h
+
+1543592855 g:\thesis\history pattern encoding copy\hpe\ea_menu.h
+
+1544453797 g:\thesis\history pattern encoding copy\hpe\ea_access.h
+
+1543985687 g:\thesis\history pattern encoding copy\hpe\ea_encoding.h
+
+1544453808 g:\thesis\history pattern encoding copy\hpe\ea_coef.h
+
+1548629813 source:g:\thesis\history pattern encoding int copy\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+
+1548610599 g:\thesis\history pattern encoding int copy\hpe\ea_var.h
+
+1548569813 g:\thesis\history pattern encoding int copy\hpe\ea_struct.h
+
+1548610691 g:\thesis\history pattern encoding int copy\hpe\ea_class.h
+
+1546027593 g:\thesis\history pattern encoding int copy\hpe\ea_initialize.h
+
+1548620159 g:\thesis\history pattern encoding int copy\hpe\ea_extension.h
+
+1548610939 g:\thesis\history pattern encoding int copy\hpe\ea_menu.h
+
+1548630716 g:\thesis\history pattern encoding int copy\hpe\ea_access.h
+
+1548610758 g:\thesis\history pattern encoding int copy\hpe\ea_encoding.h
+
+1548422906 g:\thesis\history pattern encoding int copy\hpe\ea_coef.h
+
+1549140920 source:c:\users\arnab\desktop\history pattern encoding\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<chrono>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+	"ea_access_encoded.h"
+	"ea_value_retrieval.h"
+	"ea_cost.h"
+
+1549140097 c:\users\arnab\desktop\history pattern encoding\hpe\ea_var.h
+
+1549072842 c:\users\arnab\desktop\history pattern encoding\hpe\ea_struct.h
+
+1549139504 c:\users\arnab\desktop\history pattern encoding\hpe\ea_class.h
+
+1549137055 c:\users\arnab\desktop\history pattern encoding\hpe\ea_initialize.h
+
+1549136868 c:\users\arnab\desktop\history pattern encoding\hpe\ea_extension.h
+
+1549141086 c:\users\arnab\desktop\history pattern encoding\hpe\ea_menu.h
+
+1549118879 c:\users\arnab\desktop\history pattern encoding\hpe\ea_access.h
+
+1549136153 c:\users\arnab\desktop\history pattern encoding\hpe\ea_encoding.h
+
+1548697109 c:\users\arnab\desktop\history pattern encoding\hpe\ea_coef.h
+
+1549137147 c:\users\arnab\desktop\history pattern encoding\hpe\ea_access_encoded.h
+
+1549077516 c:\users\arnab\desktop\history pattern encoding\hpe\ea_value_retrieval.h
+
+1549141444 c:\users\arnab\desktop\history pattern encoding\hpe\ea_cost.h
+
+1549140920 source:c:\users\arnab\desktop\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<chrono>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+	"ea_access_encoded.h"
+	"ea_value_retrieval.h"
+	"ea_cost.h"
+
+1549140097 c:\users\arnab\desktop\hpe\ea_var.h
+
+1549072842 c:\users\arnab\desktop\hpe\ea_struct.h
+
+1549139504 c:\users\arnab\desktop\hpe\ea_class.h
+
+1549137055 c:\users\arnab\desktop\hpe\ea_initialize.h
+
+1549136868 c:\users\arnab\desktop\hpe\ea_extension.h
+
+1549141086 c:\users\arnab\desktop\hpe\ea_menu.h
+
+1549118879 c:\users\arnab\desktop\hpe\ea_access.h
+
+1549136153 c:\users\arnab\desktop\hpe\ea_encoding.h
+
+1548697109 c:\users\arnab\desktop\hpe\ea_coef.h
+
+1549137147 c:\users\arnab\desktop\hpe\ea_access_encoded.h
+
+1549077516 c:\users\arnab\desktop\hpe\ea_value_retrieval.h
+
+1549143298 c:\users\arnab\desktop\hpe\ea_cost.h
+
+1562752533 source:d:\thesis final works\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+	"ea_access_encoded.h"
+	"ea_value_retrieval.h"
+	"ea_cost.h"
+
+1556629863 d:\thesis final works\hpe\ea_var.h
+
+1549072842 d:\thesis final works\hpe\ea_struct.h
+
+1549139504 d:\thesis final works\hpe\ea_class.h
+
+1556630918 d:\thesis final works\hpe\ea_initialize.h
+
+1556630832 d:\thesis final works\hpe\ea_extension.h
+
+1556630957 d:\thesis final works\hpe\ea_menu.h
+
+1556630075 d:\thesis final works\hpe\ea_access.h
+
+1556630633 d:\thesis final works\hpe\ea_encoding.h
+
+1556630526 d:\thesis final works\hpe\ea_coef.h
+
+1556630375 d:\thesis final works\hpe\ea_access_encoded.h
+
+1556630984 d:\thesis final works\hpe\ea_value_retrieval.h
+
+1556630583 d:\thesis final works\hpe\ea_cost.h
+
+1551210787 source:h:\thesis final works\hpe\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<fstream>
+	<iostream>
+	<chrono>
+	"ea_var.h"
+	"ea_struct.h"
+	"ea_class.h"
+	"ea_initialize.h"
+	"ea_extension.h"
+	"ea_menu.h"
+	"ea_access.h"
+	"ea_encoding.h"
+	"ea_coef.h"
+	"ea_access_encoded.h"
+	"ea_value_retrieval.h"
+	"ea_cost.h"
+
+1549140097 h:\thesis final works\hpe\ea_var.h
+
+1549072842 h:\thesis final works\hpe\ea_struct.h
+
+1549139504 h:\thesis final works\hpe\ea_class.h
+
+1551210902 h:\thesis final works\hpe\ea_initialize.h
+
+1549136868 h:\thesis final works\hpe\ea_extension.h
+
+1549273469 h:\thesis final works\hpe\ea_menu.h
+
+1549273669 h:\thesis final works\hpe\ea_access.h
+
+1549136153 h:\thesis final works\hpe\ea_encoding.h
+
+1548697109 h:\thesis final works\hpe\ea_coef.h
+
+1549268974 h:\thesis final works\hpe\ea_access_encoded.h
+
+1549077516 h:\thesis final works\hpe\ea_value_retrieval.h
+
+1549143298 h:\thesis final works\hpe\ea_cost.h
+
